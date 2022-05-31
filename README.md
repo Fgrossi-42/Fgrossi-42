@@ -3,7 +3,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on 42 Roma Luiss IT course
-- 🌱 I’m currently learning C, Unix, Virtual machines
+- 🌱 I’m currently learning C, Unix, Python, Virtual machines
 - 💬 Ask me about my fun fact
 - 📫 How to reach me: dafla107@gmail.com
 - 😄 Pronouns: He/Him
