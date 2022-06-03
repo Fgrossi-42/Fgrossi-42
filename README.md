@@ -8,3 +8,4 @@
 - 📫 How to reach me: dafla107@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: no actually don't ask me about it
+- Fraus not welcome 😄 Freddo si
